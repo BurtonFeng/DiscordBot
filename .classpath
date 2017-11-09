@@ -22,5 +22,6 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Burton/Desktop/JDA-3.3.1_303-withDependencies.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
