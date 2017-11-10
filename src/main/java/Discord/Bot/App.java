@@ -18,7 +18,6 @@ public class App extends ListenerAdapter {
     public static void main(String[] args) throws LoginException, IllegalArgumentException, InterruptedException, RateLimitedException {
     	jda = new JDABuilder(AccountType.BOT).setToken(token).buildBlocking();
     	jda.addEventListener(new App());
-    	
     }
     
     @Override
